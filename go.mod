@@ -1,3 +1,3 @@
-module github.com/kingdemoking/decentralization-storage
+module github.com/hagi0929/Decentralized-Storage-Server
 
 go 1.18
