@@ -5,12 +5,6 @@
 
 The Decentralized Cloud Storage package offers a comprehensive solution for storing files across decentralized networks. By integrating with libraries such as Storj and Filecoin, this package provides secure and redundant file storage solutions.
 
-## Features
-
-- **User Authentication**: Secure and robust token-based authentication for user accounts.
-- **Multiple Storage Options**: Support for Storj and Filecoin.
-- **Simple API**: Intuitive functions for token retrieval, API key management, and file uploads.
-- **High Performance**: Optimized for efficient and reliable file operations.
 
 ## Installation
 
